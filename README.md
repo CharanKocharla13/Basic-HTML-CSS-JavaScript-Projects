@@ -462,23 +462,11 @@ Contributions are welcome! To contribute:
 - [CSS Tricks](https://css-tricks.com/)
 - [HTML5 Spec](https://html.spec.whatwg.org/)
 - [Web APIs Documentation](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Bro Code](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Charan Kocharla**
-- GitHub: [@CharanKocharla13](https://github.com/CharanKocharla13)
-
-## 🙏 Acknowledgments
-
-- Thanks to all learners and contributors
-- Inspired by practical web development needs
-- Built with ❤️ for the community
-
----
 
 ## 📞 Support
 

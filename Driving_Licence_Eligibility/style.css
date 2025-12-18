@@ -1,0 +1,21 @@
+h1{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 40px;
+}
+#lblContainer{
+    text-align:center;
+    font-family: verdana;
+    font-size: 20px;
+}
+#myButton{
+    background-color: #f6f6f9;
+}
+#myButton:hover{
+    background-color: rgb(231, 58, 76);
+    color: white;
+}
+#result{
+    font-size: 25px;
+    font-weight: bold;
+}

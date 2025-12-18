@@ -1,0 +1,19 @@
+#myImg{
+    width: 30%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+#myBtn{
+    padding: 10px;   
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 4px auto;
+
+}
+
